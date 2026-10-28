@@ -1,0 +1,16 @@
+{
+  "name": "CSS Gradient Studio & Generator — Gamility Tools",
+  "short_name": "Gradient Studio",
+  "description": "Visual multi-stop linear, radial, and conic CSS gradient generator with angle wheel, presets, and PNG export.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090e1a",
+  "theme_color": "#090e1a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
